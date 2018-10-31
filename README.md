@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ## Chris's Repo
+=======
+## Update 10.31.2018 - Today's class will cover an intro to machine learning
+
+## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
+>>>>>>> upstream/master
 
 ## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
 
